@@ -111,9 +111,9 @@ function App() {
       url: 'https://github.com/tcunha2004/java-screenmatch-JPA'
     },
     {
-      name: 'Busca Som',
-      description: 'Projeto em Java com Spring Boot para gerenciar músicas e artistas, utilizando JPA para operações CRUD em um banco relacional e JPQL para consultas avançadas. Inclui integração com a API OpenAI para buscar informações externas sobre artistas.',
-      url: 'https://github.com/tcunha2004/buscaSom'
+      name: 'Car Fipe',
+      description: 'Projeto Full-Stack desenvolvido com JavaScript e Java para o backend, utilizando o framework Spring para o consumo e construção de APIs eintegrações via solicitações HTTP',
+      url: 'https://car-fipe-livid.vercel.app/'
     },
     {
       name: 'Solve Math',
